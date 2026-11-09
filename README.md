@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Daphne
+A bioinformatics undergraduate, aiming to explore high-throughput sequencing and omics data analysis.
 
-<!--
-**Daphne-bioinfo/Daphne-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Skills
+- Language: Linux Shell, R, Python
+- Bioinformatics tools: FastQC, MultiQC, HISAT2, featureCounts, DESeq2, IGV
+- Research interest: RNA-seq, genome variation analysis
 
-Here are some ideas to get you started:
+## 📂 My Projects
+- [high-throughput-seq-homework](https://github.com/Daphne-bioinfo/high-throughput-seq-homework)：Course assignments of high-throughput sequencing analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: 3935420822@qq.com
