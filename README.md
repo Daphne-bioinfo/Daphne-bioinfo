@@ -7,7 +7,8 @@ A bioinformatics undergraduate, aiming to explore high-throughput sequencing and
 - Research interest: RNA-seq, genome variation analysis
 
 ## 📂 My Projects
-- [high-throughput-seq-homework](https://github.com/Daphne-bioinfo/high-throughput-seq-homework)：Course assignments of high-throughput sequencing analysis
+- [omic-seq-analysis-pipelines](https://github.com/Daphne-bioinfo/omic-seq-analysis-pipelines): Collection of scripts and workflows for omics sequencing data analysis, including sequence sampling, motif search and quality control.
+
 
 ## 📫 Contact
 - Email: 3935420822@qq.com
